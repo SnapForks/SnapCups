@@ -1,0 +1,17 @@
+<input id='txt1' required placeholder='project name'>
+<br>
+<input id='txt2' required placeholder='user name'>
+<br>
+<iframe src='snap.berkeley.edu' id='if'></iframe>
+<br>
+<button type='submit' onclick='submit()'>View</button>
+<script>
+function submit(){
+document.getElementById('if').src=
+"https://snap.berkeley.edu/embed?project="+
+document.getElementById('txt1').value+
+"&user="+
+document.getElementById('txt2').value+
+"&showTitle=true&showAuthor=true&editButton=true&pauseButton=true"
+}
+</script>
