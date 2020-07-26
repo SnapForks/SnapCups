@@ -1,6 +1,11 @@
 body {
-color:#d4d4d4;
+margin: 0;
+Background-color:#d4d4d4;
+font-family: sans-serif;
+font-size: 1em;
 }
+
 header {
-color:black;
+background-color:black;
+color:white;
 }
