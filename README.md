@@ -1,3 +1,4 @@
+![Logo](https://snapcups.github.io/SnapCups/SnapCups.png)
 # SnapCups
 SnapCups is forkphorus but for snap!, SnapCups is under construction at the momment
 
