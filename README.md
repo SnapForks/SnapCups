@@ -5,8 +5,8 @@ SnapCups is forkphorus but for snap!, SnapCups is under construction at the momm
 ## Versions
 Python | HTML/JavaScript
 -------|--------
-[https://repl.it/@Daniel4Scratch/SnapCups](https://repl.it/@Daniel4Scratch/SnapCups) (Online version) | Coming Soon
-[Download Script](https://snapcups.github.io/SnapCups/Code/main.py) (Offline Version)| Coming Soon
+[https://repl.it/@Daniel4Scratch/SnapCups](https://repl.it/@Daniel4Scratch/SnapCups) (Online version) | [Finder](https://snapcups.github.io/SnapCups/Find.html) (Online version)
+[Download Script](https://snapcups.github.io/SnapCups/Code/main.py) (Offline Version)| N/A
 [Python Online Guide Book](https://snapcups.github.io/SnapCups/Code/SnapCups%20_%20Python-Online.pdf) | Coming Soon
 
 ## Credits
