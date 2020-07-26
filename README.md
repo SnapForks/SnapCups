@@ -9,6 +9,9 @@ Python | HTML/JavaScript
 [Download Script](https://snapcups.github.io/SnapCups/Code/main.py) (Offline Version)| Coming Soon
 [Python Online Guide Book](https://snapcups.github.io/SnapCups/Code/SnapCups%20_%20Python-Online.pdf) | Coming Soon
 
-
+## Credits
+JavaScript | Python | Website Master
+-----------|--------|-------------
+18001767679 | Daniel4-Scratch | Daniel4-Scratch
 
 Made with github :octocat:
