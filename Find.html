@@ -45,7 +45,8 @@ button:active {
 <br>
 <iframe src='https://snapcups.github.io/SnapCups/Find2.html' id='if' width='500' height='500'></iframe>
 <br>
-	<a href='about:blank' target='_blank' id='d' style='color:white'>Fullscreen</a>
+	<a href='about:blank' target='_blank' id='full' style='color:white'>Fullscreen</a>
+	<a href='about:blank' target='_blank' id='pro' style='color:white'>See Project Page</a>
 <script>
 function submit(){
 document.getElementById('if').src=
@@ -54,12 +55,22 @@ document.getElementById('txt1').value+
 "&user="+
 document.getElementById('txt2').value+
 "&showTitle=true&showAuthor=true&editButton=true&pauseButton=true"
-document.getElementById('d').href=
+	/*Full*/
+document.getElementById('full').href=
 "https://snap.berkeley.edu/embed?project="+
 document.getElementById('txt1').value+
 "&user="+
 document.getElementById('txt2').value+
 "&showTitle=true&showAuthor=true&editButton=true&pauseButton=true"
+	
+	/*Pro*/
+document.getElementById('pro').href=
+"https://snap.berkeley.edu/project?user="+
+document.getElementById('txt2').value+
+"&project="+
+document.getElementById('txt1').value+
+""
+	
 }
 </script>
 </body>
