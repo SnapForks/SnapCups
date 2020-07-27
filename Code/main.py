@@ -1,7 +1,7 @@
 #Enter project name
-Project_Name = "engine"
+Project_Name = ""
 #Enter proje3ct author
-Project_Author = "jens"
+Project_Author = ""
 #Run the code and it will print the link
 print("SnapCups \nCopy and paste the link")
 print("Link:")
