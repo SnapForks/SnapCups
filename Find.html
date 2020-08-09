@@ -1,4 +1,3 @@
-
 <style>
 body{
 background-color:black;
@@ -38,12 +37,84 @@ button:active {
 	top:1px;
 }
 
-        
+        .Label--green, .Label--outline-green {
+    color: #3af064;
+    border-color: #28a745;
+}
+.Label--inline {
+    display: inline;
+    padding: .1667em .5em;
+        padding-right: 0.5em;
+        padding-left: 0.5em;
+    font-size: .9em;
+}
+.label, .Label {
+    display: inline-block;
+    padding: 0 7px;
+    font-size: 12px;
+    font-weight: 500;
+    line-height: 18px;
+    border-radius: 2em;
+    background-color: initial !important;
+    border: 1px solid #e1e4e8;
+        border-top-color: rgb(225, 228, 232);
+        border-right-color: rgb(225, 228, 232);
+        border-bottom-color: rgb(225, 228, 232);
+        border-left-color: rgb(225, 228, 232);
+}
+.px-1 {
+    padding-right: 4px !important;
+}
+.pl-1, .px-1 {
+    padding-left: 4px !important;
+}
+.ml-1 {
+    margin-left: 4px !important;
+}
+* {
+    box-sizing: border-box;
+}
+.Box-row {
+    list-style-type: none;
+}
+body {
+    word-wrap: break-word;
+}
+body {
+    font-family: -apple-system,BlinkMacSystemFont,Segoe UI,Helvetica,Arial,sans-serif,Apple Color Emoji,Segoe UI Emoji;
+    font-size: 14px;
+    line-height: 1.5;
+    color: #24292e;
+}
+html {
+    font-family: sans-serif;
+    -webkit-text-size-adjust: 100%;
+}
+margin
+border
+padding
+27.5167×16
+37.5167×22.2
+static
+    box-sizing
+    border-box
+    display
+    inline
+    float
+    none
+    line-height
+    18px
+    position
+    static
+    z-index
+    auto
+
 
   
 </style>
 <body>
-
+<span title="Feature Release Label: Beta" class="Label Label--outline-green Label--inline ml-1 px-1">Beta</span>
+<br>
 <input id='txt1' required placeholder='Project Name'>
 <br>
 <input id='txt2' required placeholder='Author'>
