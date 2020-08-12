@@ -1,6 +1,10 @@
 ![Logo](https://snapcups.github.io/SnapCups/SnapCups.png)
 # SnapCups
-SnapCups is forkphorus but for snap!, SnapCups is under construction at the momment
+SnapCups is forkphorus but for Snap<i>!</i>.
+
+[Try the player now](https://snapcups.github.io/SnapCups/Find.html)
+
+Give feed back in the [issue](https://github.com/Snapcups/SnapCups/issues) tab or [here](https://forum.snap.berkeley.edu/t/snapcups-forkphorus-for-snap/2458)
 
 ## Versions
 Use the online version on the website, it easy!
