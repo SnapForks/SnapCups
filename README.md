@@ -15,8 +15,20 @@ Python | HTML/JavaScript
 It's easy! Just find something to fix, improve or other. Then create a pull requst, see if it gets merged!
 
 ## Credits
-JavaScript | Python | Website Master
------------|--------|-------------
-18001767679 | Daniel4-Scratch | Daniel4-Scratch
+
+### Contributors `3`
+
+![Daniel4-Scratch](https://avatars3.githubusercontent.com/u/65277548?s=64&v=4) 
+
+[Daniel4-Scratch](https://github.com/Daniel4-Scratch)
+
+![GrahamSH-LLK](https://avatars0.githubusercontent.com/u/64214252?s=64&v=4)
+
+[GrahamSH-LLK](https://github.com/GrahamSH-LLK)
+
+![sputnikattack](https://avatars2.githubusercontent.com/u/67114976?s=64&v=4)
+
+[sputnikattack](https://github.com/sputnikattack)
+
 
 Made with github :octocat:
