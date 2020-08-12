@@ -41,5 +41,8 @@ Credit to [Snap<i>!</i>](https://snap.berkeley.edu/) for their program making Sn
 
 [sputnikattack](https://github.com/sputnikattack)
 
+## ❗️ Disclaimer ⚠️
+SnapCups is not offical or made by Snap<i>!</i>. SnapCups is developed by Daniel4-Scratch and the Snap<i>!</i> Community.
+
 
 Made with github :octocat:
