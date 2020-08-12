@@ -21,6 +21,7 @@ Python | HTML/JavaScript
 It's easy! Just find something to fix, improve or something else. Then create a pull requst, see if it gets merged!
 
 ## Credits
+Credit to [Snap<i>!</i>](https://snap.berkeley.edu/) for their program making SnapCups possible.
 
 ### Contributors `4`
 
