@@ -18,11 +18,15 @@ It's easy! Just find something to fix, improve or other. Then create a pull requ
 
 ## Credits
 
-### Contributors `3`
+### Contributors `4`
 
 ![Daniel4-Scratch](https://avatars3.githubusercontent.com/u/65277548?s=64&v=4) 
 
 [Daniel4-Scratch](https://github.com/Daniel4-Scratch)
+
+![R4356th](https://avatars1.githubusercontent.com/u/61620631?s=460&u=a52e0f40dad5f45de92427006a765b3483bbcfb4&v=4)
+
+[R4356th](https://github.com/R4356th)
 
 ![GrahamSH-LLK](https://avatars0.githubusercontent.com/u/64214252?s=64&v=4)
 
