@@ -3,7 +3,7 @@
 SnapCups is forkphorus but for snap!, SnapCups is under construction at the momment
 
 ## Versions
-use the online version on the website, it easy!
+Use the online version on the website, it easy!
 
 Python | HTML/JavaScript
 -------|--------
@@ -12,6 +12,7 @@ Python | HTML/JavaScript
 [Python Online Guide Book](https://snapcups.github.io/SnapCups/Code/SnapCups%20_%20Python-Online.pdf) | Coming Soon
 
 ## Contributing
+![Repo](https://myoctocat.com/objects/props/icons/props-books.svg)
 It's easy! Just find something to fix, improve or other. Then create a pull requst, see if it gets merged!
 
 ## Credits
