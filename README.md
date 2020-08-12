@@ -2,7 +2,7 @@
 # SnapCups
 SnapCups is forkphorus but for Snap<i>!</i>.
 
-[Try the player now](https://snapcups.github.io/SnapCups/Find.html)
+[Try the player now](https://snapcups.github.io/SnapCups/Find.html) [Disclaimer](https://github.com/Snapcups/SnapCups#%EF%B8%8F-disclaimer-%EF%B8%8F)
 
 Give feed back in the [issue](https://github.com/Snapcups/SnapCups/issues) tab or [here](https://forum.snap.berkeley.edu/t/snapcups-forkphorus-for-snap/2458)
 
