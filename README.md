@@ -18,7 +18,7 @@ Python | HTML/JavaScript
 ## Contributing
 ![Repo](https://myoctocat.com/objects/props/icons/props-books.svg)
 
-It's easy! Just find something to fix, improve or other. Then create a pull requst, see if it gets merged!
+It's easy! Just find something to fix, improve or something else. Then create a pull requst, see if it gets merged!
 
 ## Credits
 
